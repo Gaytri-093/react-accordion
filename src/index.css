@@ -6,6 +6,9 @@
 
 /* 100% */
 @media (min-width:1300px  ) and (max-width:  1400px){
+  .div{
+    border-radius: 20px;
+  }
   .div1{
    margin-bottom: 15px;
   }
@@ -33,11 +36,11 @@
  }
 
 
-
-
-
 /* 90% */
 @media (min-width: 1400px ) and (max-width:  1653px){
+  .div{
+    border-radius: 20px;
+  }
   .div1{
    margin-bottom: 15px;
   }
@@ -64,13 +67,12 @@
    }
  }
 
-
-
-
-
 /* 80% */
 
 @media (min-width: 1653px ) and (max-width: 1700px){
+  .div{
+    border-radius: 20px;
+  }
   .div1{
    margin-bottom: 20px;
   }
@@ -101,6 +103,9 @@
 /* 75% */
 
 @media (min-width: 1700px) and (max-width: 1900px){
+  .div{
+    border-radius: 20px;
+  }
   .div1{
    margin-bottom: 40px;
   }
@@ -130,6 +135,9 @@
 /* 67% */
 
 @media (min-width: 1900px) and (max-width: 2204px){
+  .div{
+    border-radius: 30px;
+  }
   .div1{
    margin-bottom: 50px;
   }
@@ -160,6 +168,9 @@
 
 /* 50% */
 @media (min-width: 2204px) and (max-width: 3306px){
+  .div{
+    border-radius: 30px;
+  }
   .div1{
    margin-bottom: 80px;
   }
@@ -189,6 +200,9 @@
 /* 33% */
 
 @media (min-width: 3306px) and (max-width: 4500px){
+  .div{
+    border-radius: 50px;
+  }
  .div1{
   margin-bottom: 100px;
  }
@@ -217,6 +231,9 @@
 
 /* 23% */
 @media (min-width: 4500px) and (max-width: 6000px){
+  .div{
+    border-radius: 60px;
+  }
   .div1{
    margin-bottom: 150px;
   }
